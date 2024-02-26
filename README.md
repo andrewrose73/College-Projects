@@ -1,2 +1,1 @@
-# Data-Mining
-College Final in Data Mining
+# College Projects in Business Analytics
